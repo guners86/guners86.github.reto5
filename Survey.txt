@@ -1,0 +1,8 @@
+lenguaje de marcado utilizado para hacer paginas web
+HTML
+Lenguaje de programación interpretado, utilizado en paginas web mejorando la intereaccion y la interface de usuario.
+JavaScript
+Framework originalmente creado por Twitter, para mejorar la interface de un sitio web
+Bootstrap
+Lenguaje de programación interpretado, reflexivo y orientado a objetos, creado por el programador japonés Yukihiro "Matz"
+Ruby
