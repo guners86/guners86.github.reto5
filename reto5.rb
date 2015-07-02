@@ -58,7 +58,8 @@ class Reto
       number_questions += 1
       
       puts "Pregunta: #{key}"
-      puts "Respuesta:"
+      print "Respuesta: "
+      STDOUT.flush 
       answer =  gets.chomp
       answer = answer.downcase
       
@@ -66,7 +67,8 @@ class Reto
         puts "";
         puts 'Incorrecto!, Trata de nuevo' 
         puts "Pregunta: #{key}"
-        puts "Respuesta:"
+        print "Respuesta: "
+        STDOUT.flush 
         answer = gets.chomp
         answer = answer.downcase
         number_attempts += 1;
